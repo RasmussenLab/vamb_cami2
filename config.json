@@ -1,0 +1,11 @@
+{
+   "configfile": "config.json",
+   "contigs": "contigs.fna.gz",
+   "minimap_mem": "25gb",
+   "ppn": "20",
+   "project": "cpr_10006",
+   "sample_file": "/home/projects/cpr_10006/people/sira/projects/vamb/cami2/marine/samples.txt",
+   "sample_data": "/home/projects/cpr_10006/people/sira/projects/vamb/cami2/marine/samples2data.tsv",
+   "tmpdir": "/home/projects/cpr_10006/scratch/sira/",
+   "vamb_params": "--minfasta 500000"
+}
