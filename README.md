@@ -1,5 +1,7 @@
 # GitHub repository for binning CAMI2 challenge dataset using VAMB
 
+This is a snakemake file for running VAMB on the CAMI2 challenge datasets. **IMPORTANT: Because CAMI datasets are pooled assemblies - this is not using the *multi-split* approach. If you are running your own data you *should* use the multi-split approach instead. I will put up a link here to a snakemake that does exactly that**
+
 Edit the configuration file as necessary, the fields are:
 
 ```
